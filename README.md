@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate about UI development.<br>I am currently working at MelkRadar as a front-end tech lead.<br>I'm interested in Blazor and Angular frameworks.<br>There is nothing I can't do with Html and CSS ;)<br>
+Passionate about UI development.<br>I'm interested in Blazor and Angular frameworks.<br>There is nothing I can't do with Html and CSS ;)<br>I am currently working at MelkRadar as a front-end tech lead.<br>
 
 
 ## 🌐 Socials:
